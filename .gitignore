@@ -1,0 +1,11 @@
+
+# IDE и редакторы
+.idea/
+.vscode/
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Зависимости
